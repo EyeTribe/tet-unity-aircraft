@@ -1,4 +1,4 @@
-AitCraft Unity Sample for the EyeTribe Dev Kit
+AirCraft Unity Sample for the EyeTribe Dev Kit
 ====
 <p>
 
