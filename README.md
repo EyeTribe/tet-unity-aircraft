@@ -39,7 +39,7 @@ Build
 
 To build, open project in [Unity](http://unity3d.com/) and build for Windows OS or Mac OSX.
 
-Note that the EyeTribe Server currently supports Windows 7 and newer as well as Mac OSX 10.8 and never. Support for other platforms will be added in the future.
+Note that the EyeTribe Server currently supports Windows 7 and newer as well as Mac OSX 10.8 and newer. Support for other platforms will be added in the future.
 
 
 FAQ
